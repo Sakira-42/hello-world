@@ -1,6 +1,6 @@
 ## Sakira Daodu
 
-* A first year CS student at Kibo School of Technology *
+* A first year CS student at Kibo School of Technology 
 
 
 # hello-world
